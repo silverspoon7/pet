@@ -1,0 +1,31 @@
+.nav {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.nav a {
+color: black;
+}
+
+
+#background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+
+
+
+.welcome {
+    font-weight: 600;
+    color: rgb(0, 157, 255);
+}
+ 
+.offer {
+    font-weight: 400;
+    color: black;
+}
