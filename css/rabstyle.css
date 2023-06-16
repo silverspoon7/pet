@@ -35,9 +35,7 @@ h2.text-center {
     text-align: center;
     transition: background-color 0.3s ease;
   }
-  footer:hover {
-    background-color: pink
-  }
+
 
   .social-icons li {
     display: inline-block;

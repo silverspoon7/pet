@@ -70,7 +70,7 @@
       height: 80px;
     }
   }
-  
+
   footer {
     background-color: #333;
     color: #fff;
@@ -79,7 +79,7 @@
     transition: background-color 0.3s ease;
   }
   footer:hover {
-    background-color: pink
+    background-color: rgb(239, 68, 159);;
   }
 
   .social-icons li {
